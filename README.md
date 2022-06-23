@@ -1,1 +1,1 @@
-# Robi-Datathon-2022
+We get two data set.Here I process dataset using python language. Firstly I prepossing the dataset.Then Handle the missing value from dataset and sacling the datset. After that we build some Maching Learning Model to get better output.
